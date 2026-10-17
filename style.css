@@ -72,3 +72,12 @@ p{
     align-items: center;
     text-align: center;
 }
+button{
+    color: #1c1c1d;
+    border-color: #d1b7f3;
+    border-radius: 5px;
+    padding: 3px;
+    background-color: #fcfbfb;
+    width: 150px;
+    
+}
