@@ -12,7 +12,7 @@ color: #fcfbfb;
   padding: 15px 15px;
   border-bottom: 5px solid #e3a92f;
   margin-bottom: 12px; 
-  width: 350px;
+  width: 330px ;
   margin:100px auto;
   margin-top: 0px;
   margin-bottom: 5px;
@@ -26,7 +26,7 @@ color: #fcfbfb;
     margin-top: 0px;
     border-radius: 10px;
     background-color: #fcfbfb;
-    width: 350px;
+    width: 330px;
     text-align: left;
     box-shadow: 0 4px 12px;
 
@@ -105,7 +105,6 @@ hr{
 }
 .countries{
     padding: 5px;
-    margin-left: 28px;
     margin-bottom: 4px;
     width: 190px;
 }
